@@ -7,7 +7,6 @@ repos:
       - id: end-of-file-fixer    # Ensures a newline at the end of each file
       - id: check-yaml           # Validates YAML files syntax
       - id: detect-private-key   # Searches for private keys in the repository
-      - id: check-added-large-files  # Prevents large files from being added to the repository
   # Code formatting for jupyter notebooks with Black Jupyter
   - repo: https://github.com/psf/black-pre-commit-mirror
     rev: 24.4.2

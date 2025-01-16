@@ -1,0 +1,8 @@
+# Paths
+raw_data_dir: "./data/survstat/"
+data_recently_puplished: "./data/survstat/recently_published/Data.csv"
+data_epidYb_21: "./data/survstat/epidYb_21/Data.csv"
+data_epidYb_22: "./data/survstat/epidYb_20/Data.csv"
+data_epidYb_23: "./data/survstat/epidYb_23/Data.csv"
+
+#

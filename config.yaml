@@ -1,6 +1,7 @@
 # Data
 data:
   raw_data_dir: "./data/survstat/"
+  processed_data_dir: "./data/processed/"
   data_recently_puplished: "./data/survstat/recently_puplished/Data.csv"
   data_epidYb_21: "./data/survstat/epidYb_21/Data.csv"
   data_epidYb_22: "./data/survstat/epidYb_20/Data.csv"
